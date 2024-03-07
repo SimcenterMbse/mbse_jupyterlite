@@ -3,9 +3,7 @@ jupyterlite-core==0.2.3
 jupyterlab~=4.0.11
 notebook~=7.0.7
 grpcio>=1.53.0
-grpcio-tools==1.26.0
 jupyterlite-pyodide-kernel==0.2.3
-pygame
 
 jupyterlab-language-pack-fr-FR
 jupyterlab-language-pack-zh-CN
